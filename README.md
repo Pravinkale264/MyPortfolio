@@ -1,3 +1,3 @@
 # 📄 MyPortfolio 👨‍💻
 
-## Link: https://pravin-portfolio264.netlify.app/
+## Link: https://myportfolio264.netlify.app/
